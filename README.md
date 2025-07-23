@@ -94,5 +94,6 @@ To contribute, follow these steps:
 This project is licensed under the @2023 Surya Kiran Varma Vegesna.
 
 ### Contact
-If you have any questions or want to contribute, please email us at surya@example.com.
+If you have any questions or want to contribute, please email us at umatamalampudi26@gmail.com
+
 
